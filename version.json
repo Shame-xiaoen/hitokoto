@@ -1,0 +1,17 @@
+{
+  "protocol_version": "1.0.0",
+  "bundle_version": "1.0.393",
+  "updated_at": 1705250815669,
+  "categories": {
+    "path": "./categories.json",
+    "timestamp": 1597712000881
+  },
+  "sentences": [
+    {
+      "name": "一言",
+      "key": "a",
+      "path": "./sentences/a.json",
+      "timestamp": 1619244060706
+    }
+  ]
+}
